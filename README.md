@@ -4,16 +4,16 @@ This project is a secure RESTful API built with Django and Django REST Framework
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 JWT-based authentication with access/refresh tokens
-- 📖 CRUD operations: Create, Read, Update, Delete books
-- ✅ Protected endpoints (only accessible to authenticated users)
-- 🧪 Easily testable with Postman or cURL
+- JWT-based authentication with access/refresh tokens
+- CRUD operations: Create, Read, Update, Delete books
+- Protected endpoints (only accessible to authenticated users)
+- Easily testable with Postman or cURL
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Django
@@ -23,7 +23,7 @@ This project is a secure RESTful API built with Django and Django REST Framework
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -176,7 +176,7 @@ The API will be accessible at `http://localhost:8000`.
 
 ---
 
-## 🔐 Authentication (JWT)
+## Authentication (JWT)
 
 ### Get Token
 
@@ -199,7 +199,7 @@ Authorization: Bearer <your_access_token>
 
 ---
 
-## 📮 API Endpoints
+## API Endpoints
 
 | Method | Endpoint             | Description           |
 |--------|----------------------|-----------------------|
@@ -211,7 +211,7 @@ Authorization: Bearer <your_access_token>
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Use Postman, cURL, or any REST client to test the API. Example:
 
@@ -223,10 +223,4 @@ curl -H "Authorization: Bearer <token>" http://localhost:8000/api/books/
 
 ## 👨‍💻 Author
 
-Your Name – [your.email@example.com]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+# Tasneem Mohamed
